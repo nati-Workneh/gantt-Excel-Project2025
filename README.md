@@ -1,5 +1,8 @@
 # Gantt Chart — Information Systems Planning (2025)
 
+<img width="1260" height="673" alt="image" src="https://github.com/user-attachments/assets/eee9fc31-7352-438a-8bd7-0aaa98c69097" />
+<img width="1256" height="607" alt="image" src="https://github.com/user-attachments/assets/e4a83787-cf1a-4137-b7f7-347cc4894e5a" />
+
 An Excel-based Gantt chart for project planning and scheduling, built as part of an Information Systems course (2025).
 
 ## Overview
